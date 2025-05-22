@@ -1,0 +1,1 @@
+const Contact = () => <div className='p-6 mt-20'>Contact Us.</div>; export default Contact;

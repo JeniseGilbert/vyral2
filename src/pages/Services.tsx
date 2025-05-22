@@ -1,0 +1,1 @@
+const Services = () => <div className='p-6 mt-20'>Our Services.</div>; export default Services;

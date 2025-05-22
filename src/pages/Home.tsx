@@ -1,0 +1,1 @@
+const Home = () => <div className='p-6 mt-20'>Welcome to VYRAL Home.</div>; export default Home;

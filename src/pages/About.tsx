@@ -1,0 +1,1 @@
+const About = () => <div className='p-6 mt-20'>About VYRAL.</div>; export default About;
